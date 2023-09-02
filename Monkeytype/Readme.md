@@ -23,6 +23,10 @@ You will also need a WebDriver specific for the browser. You can get the WebDriv
 
 It would be better if you kept the WebDriver executable file in the project folder rather than adding it to the PATH.
 
+## Test Result
+
+The demo test result video and screenshot are in the accompanying [_demo.zip_](https://github.com/garg-tech/Automation/blob/main/Monkeytype/demo.zip) file.
+
 ## Contact
 Created by Devansh Garg - feel free to contact me!  
 dgarg1806@gmail.com
