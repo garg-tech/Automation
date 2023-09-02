@@ -9,7 +9,7 @@ Monkeytype is a minimalistic, customisable typing website. This project automate
 ## Technologies Used
 
 * PyAutoGUI - version 0.9.54
-* selenium - version 4.11.2
+* Selenium - version 4.11.2
   
 ## Setup
 
