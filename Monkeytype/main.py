@@ -19,7 +19,7 @@ browser.set_window_position(0, 0)
 pyautogui.FAILSAFE = True #Failsafe mechanism
 pyautogui.click(x=959, y=849) #accept cookies
 
-delay = 0.000001
+delay = 0.0
 time.sleep(3)
 
 #to allow the user to select different modes
