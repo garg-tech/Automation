@@ -25,7 +25,7 @@ It would be better if you kept the WebDriver executable file in the project fold
 
 ## Test Result
 
-The demo test result video and screenshot are in the accompanying [_demo.zip_](https://github.com/garg-tech/Automation/blob/main/Monkeytype/demo.zip) file.
+The demo test result video and screenshot (set as a thumbnail) are available [_here_](https://youtu.be/WCPCpnZFPUg).
 
 ## Contact
 Created by Devansh Garg - feel free to contact me!  
