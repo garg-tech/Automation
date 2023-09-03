@@ -1,6 +1,6 @@
 # Automate Monkeytype
 
-> A program to automate typing on [_Monkeytype_](https://monkeytype.com/).
+> A program to automate typing on [_Monkeytype_](https://monkeytype.com/){:target="_blank"}.
 
 ## General Information
 
@@ -19,13 +19,13 @@ To install these libraries to your local environment run the following installat
 * `pip3 install pyautogui`
 * `pip3 install selenium`
   
-You will also need a WebDriver specific for the browser. You can get the WebDriver for your browser [_here_](https://learndataanalysis.org/download-browser-drivers-selenium-with-python/). This website contains the link to all the supported WebDrivers.
+You will also need a WebDriver specific for the browser. You can get the WebDriver for your browser [_here_](https://learndataanalysis.org/download-browser-drivers-selenium-with-python/){:target="_blank"}. This website contains the link to all the supported WebDrivers.
 
 It would be better if you kept the WebDriver executable file in the project folder rather than adding it to the PATH.
 
 ## Test Result
 
-The demo test result video and screenshot (set as a thumbnail) are available [_here_](https://youtu.be/WCPCpnZFPUg).
+The demo test result video and screenshot (set as a thumbnail) are available [_here_](https://youtu.be/WCPCpnZFPUg){:target="_blank"}.
 
 ## Contact
 Created by Devansh Garg - feel free to contact me!  
